@@ -1,0 +1,2 @@
+[{"amount": 50000.0, "category": "salary", "type": "income", "date": "2025-01-11"}, {"amount": 5000.0, "category": "food", "type": "expense", "date": "2025-01-12"}, {"amount": 200.0, "category": "emi", "type": "expense", "date": "2025-01-15"}, {"amount": 3000.0, "category": "emi", "type": "expense", "date": "2025-01-12"}]
+    
